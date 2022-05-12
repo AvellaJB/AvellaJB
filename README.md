@@ -6,6 +6,13 @@ Hi there 👋 ! I'm Jean-Baptiste from France, currently living in Fréjus. Afte
 - 🌱 I’m learning ReactJS, NodeJS, MongoDB. 
 - :exclamation: I’m looking for job oportunities. 
 
+<div align="center">
+<a href="https://github.com/TRegourd?tab=repositories ">
+<img height="200rem" width="400rem" src="https://github-readme-stats.vercel.app/api?username=TRegourd&show_icons=true&theme=tokyonight">
+<img height="200rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRegourd&layout=compact&theme=tokyonight">
+</a>
+</div>
+
 ## Languages and Tools: 
 
 <img align="left" width="25px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;" />
