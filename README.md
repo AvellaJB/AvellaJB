@@ -1,10 +1,15 @@
+[![AvellaJB Github Banner](./assets/banner.jpg)](https://twitter.com/avella_jb)
+
 # Jean-Baptiste Avella
 
-Hi there 👋 ! I'm Jean-Baptiste from France, currently living in Fréjus. After 2 years ON and OFF learning solo, I've decided to risk everything and quit my job in corporate banking to learn how to be a full time web developer.
+Hi there 👋 ! I'm Jean-Baptiste from France, currently living in Fréjus. After 2
+years ON and OFF learning solo, I've decided to risk everything and quit my job
+in corporate banking to learn how to be a full time web developer.
 
-- :innocent: I’m currently attending the KODYNEO / BOCAL ACADEMY FULLSTACK JS bootcamp course ! 
-- 🌱 I’m learning ReactJS, NodeJS, MongoDB. 
-- :exclamation: I’m looking for job oportunities. 
+- :innocent: I’m currently attending the KODYNEO / BOCAL ACADEMY FULLSTACK JS
+  bootcamp course !
+- 🌱 I’m learning ReactJS, NodeJS, MongoDB.
+- :exclamation: I’m looking for job oportunities.
 
 <div align="center">
 <a href="https://github.com/AvellaJB?tab=repositories">
@@ -13,7 +18,7 @@ Hi there 👋 ! I'm Jean-Baptiste from France, currently living in Fréjus. Afte
 </a>
 </div>
 
-## Languages and Tools: 
+## Languages and Tools:
 
 <img align="left" width="25px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;" />
 <img align="left" width="25px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:11px;" />
@@ -25,15 +30,10 @@ Hi there 👋 ! I'm Jean-Baptiste from France, currently living in Fréjus. Afte
 
 <br/>
 
-### How to reach me : 
+### How to reach me :
 
 [<img  align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:11px;" />](https://twitter.com/avella_jb)
 [<img  align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:11px;" />](https://www.linkedin.com/in/jean-baptiste-avella-7b0506107/)
-
-
-
-
-
 
 <!---
 AvellaJB/AvellaJB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
