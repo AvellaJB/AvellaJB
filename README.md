@@ -2,14 +2,12 @@
 
 # Jean-Baptiste Avella
 
-Hi there 👋 ! I'm Jean-Baptiste from France, currently living in Fréjus. After 2
-years ON and OFF learning solo, I've decided to risk everything and quit my job
-in corporate banking to learn how to be a full time web developer.
+Hi there 👋 ! I'm Jean-Baptiste from France. A few yers ago I quit my job in corporate finance to start a career in web development.
+It's been great so far, I've worked with CAC40 companies as Cloud Software developer and I'm really passionate about what I do.
 
-- :innocent: I’m currently attending the KODYNEO / BOCAL ACADEMY FULLSTACK JS
-  bootcamp course !
-- 🌱 I’m learning ReactJS, NodeJS, MongoDB.
-- :exclamation: I’m looking for job oportunities.
+- :innocent: Currently working for Renault as a Cloud Software developer
+- 🌱 Learning Kubernetes, Google Cloud in a NodeJS environment
+- :exclamation: Always an ear out for opportunities.
 
 <div align="center">
 <a href="https://github.com/AvellaJB?tab=repositories">
@@ -32,7 +30,6 @@ in corporate banking to learn how to be a full time web developer.
 
 ### How to reach me :
 
-[<img  align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:11px;" />](https://twitter.com/avella_jb)
 [<img  align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:11px;" />](https://www.linkedin.com/in/jean-baptiste-avella-7b0506107/)
 
 <!---
